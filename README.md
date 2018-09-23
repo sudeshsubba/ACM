@@ -1,4 +1,5 @@
-# APM
+# APM 
+This is a learner code. Ref https://app.pluralsight.com/library/courses/angular-2-getting-started-update by Deborah Kurata
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
