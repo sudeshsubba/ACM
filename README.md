@@ -1,6 +1,10 @@
 # APM
+This project is created by me for learning purposes. Please refer to pluralsight course https://app.pluralsight.com/library/courses/angular-2-getting-started-update by Deborah Kurata. All of this material is from from her course.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+Second git commit test
+Third git commit test
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8. Learning Angular and Github. Please do not use this project as reference.
 
 ## Development server
 
